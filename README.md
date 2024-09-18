@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **harshitdeep3011@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Praharsh%20Mukund/Downloads/FINAL%20(1).pdf](file:///C:/Users/Praharsh%20Mukund/Downloads/FINAL%20(1).pdf)
+- 📄 Know about my experiences (file:///C:/Users/Praharsh%20Mukund/Downloads/FINAL%20(1).pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
