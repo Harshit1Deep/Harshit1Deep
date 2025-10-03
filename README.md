@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit1deep&label=Profile%20views&color=0e75b6&style=flat" alt="harshit1deep" /> </p>
 
-- 🔭 I’m currently working on **Online Auction Bidding System**
+
 
 - 📫 How to reach me **harshitdeep3011@gmail.com**
 
